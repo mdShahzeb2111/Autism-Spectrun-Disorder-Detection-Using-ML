@@ -10,7 +10,7 @@ This project uses machine learning techniques to detect the likelihood of Autism
 
 ## 📊 Dataset
 
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult)
+- Kaggle
 - Attributes include:
   - Age
   - Gender
@@ -48,7 +48,7 @@ This project uses machine learning techniques to detect the likelihood of Autism
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/asd-detection.git
+git clone https://github.com/mdShahzeb2111/Autism-Spectrun-Disorder-Detection-Using-ML.git
 cd asd-detection
 
 # Install dependencies
